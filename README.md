@@ -8,8 +8,7 @@ Project is created with:
 * Beautifulsoup4
 
 ## Setup
-To make this projet working you need to create your google sheet api account, and change account credentials in script.To make this script working you need to 
-download seleniuwebdriver and specify path in hard disc and  set up your own google form.
+HINT! To make this script working you need to download seleniuwebdriver and specify path in hard disc and  set up your own google form.
 
 Then you should clone this repository:
 
