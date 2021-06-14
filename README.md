@@ -8,7 +8,7 @@ Project is created with:
 * Beautifulsoup4
 
 ## Setup
-HINT! To make this script working you need to download seleniuwebdriver and specify path in hard disc and  set up your own google form.
+HINT! To make this script working you need to download seleniuM-webdriver and specify path in hard disc and  set up your own google form.
 
 Then you should clone this repository:
 
